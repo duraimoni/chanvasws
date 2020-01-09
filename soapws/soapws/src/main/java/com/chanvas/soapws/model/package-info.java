@@ -1,0 +1,2 @@
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://chanvas.com")
+package com.chanvas.soapws.model;

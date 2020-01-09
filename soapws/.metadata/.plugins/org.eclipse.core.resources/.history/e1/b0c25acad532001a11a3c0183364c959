@@ -1,0 +1,5 @@
+package com.free.soapws;
+
+public class SoapWsConfig {
+
+}
